@@ -1,2 +1,2 @@
-# a2zhomework
-A repository for homework from programming a to z
+# hacking story frameworks
+A quick site for testking an idea for hacking story frameworks 
